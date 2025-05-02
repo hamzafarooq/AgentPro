@@ -150,8 +150,6 @@ The LLM + Agent will understand, extract values, and make the prediction using t
 * Automates tool selection and argument formatting
 * Enables LLM to use tools like functions with typed inputs and validations
 
-Your tool (DiabetesPredictionTool) inherits from AgentPro's `Tool` base class and implements `run(input_data)` with all logic.
-
 ---
 
 ## 🤝 Contributing
