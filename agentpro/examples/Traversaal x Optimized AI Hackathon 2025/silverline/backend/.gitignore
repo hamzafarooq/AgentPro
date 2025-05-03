@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+
+# Poetry
+.venv
+
+# log files
+logs/*.log
+
+# Temporary files
+temp
+
+# Sqlite db
+prisma/*.db
+prisma/*.db-journal
+
+# Environment file
+.env
+
+# Model files
+*.pt
+models/**/*.xml
+models/**/*.bin
+models/**/*.yaml
+models/*.onnx
+
+# Visual Studio Code
+.vscode/
+
+# License
+LICENSE

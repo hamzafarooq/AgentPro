@@ -1,0 +1,28 @@
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-py"
+}
+
+enum IsSpam {
+  SPAM
+  NOT_SPAM
+  NOT_SURE
+}
+
+model CallHistory {
+  id            String   @id @default(auto()) @map("_id") @db.ObjectId
+  datetime      DateTime @map("timestamp")
+  callerId      String?
+  callerNumber  String?
+  twilioNumber  String?
+  callDuration  Int?
+  isSpam        IsSpam?
+  reason        String?
+  type          String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}

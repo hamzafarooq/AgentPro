@@ -1,0 +1,202 @@
+[
+  {
+    "id": "user123",
+    "datetime": "2025-02-24T19:57:49",
+    "type": "Medical",
+    "caller_number": "+14155552671",
+    "twilio_number": "+15105551234",
+    "call_duration": 180,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller reported chest pain and trouble breathing. It was a clear medical emergency requiring urgent attention."
+  },
+  {
+    "id": "user456",
+    "datetime": "2025-02-27T19:57:49",
+    "type": "Environmental",
+    "caller_number": "+14155552672",
+    "twilio_number": "+15105551234",
+    "call_duration": 240,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller witnessed a chemical spill on a nearby highway. They were concerned about public safety and environmental impact."
+  },
+  {
+    "id": "user789",
+    "datetime": "2025-03-02T19:57:49",
+    "type": "Emotional",
+    "caller_number": "+14155552673",
+    "twilio_number": "+15105551235",
+    "call_duration": 120,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller reported ongoing anxiety and insomnia. Emotional distress was the reason for seeking help."
+  },
+  {
+    "id": "user101",
+    "datetime": "2025-03-04T19:57:49",
+    "type": "Daily Living",
+    "caller_number": "+14155552674",
+    "twilio_number": "+15105551235",
+    "call_duration": 300,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller needed help with grocery delivery logistics. Assistance with basic daily needs prompted the call."
+  },
+  {
+    "id": "user102",
+    "datetime": "2025-03-06T19:57:49",
+    "type": "Other",
+    "caller_number": "+14155552675",
+    "twilio_number": "+15105551236",
+    "call_duration": 90,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller had questions regarding an upcoming community event. The call was informational in nature."
+  },
+  {
+    "id": "user103",
+    "datetime": "2025-03-09T19:57:49",
+    "type": "Not Sure",
+    "caller_number": "+14155552676",
+    "twilio_number": "+15105551236",
+    "call_duration": 60,
+    "is_spam": "NOT_SURE",
+    "reason": "Caller was unsure of the purpose for calling. No specific emergency or concern was mentioned."
+  },
+  {
+    "id": "user104",
+    "datetime": "2025-03-12T19:57:49",
+    "type": "Other",
+    "caller_number": "+14155552677",
+    "twilio_number": "+15105551237",
+    "call_duration": 150,
+    "is_spam": "SPAM",
+    "reason": "Unsolicited sales pitch for discount insurance. The call was identified as a commercial spam attempt."
+  },
+  {
+    "id": "user105",
+    "datetime": "2025-03-14T19:57:49",
+    "type": "Medical",
+    "caller_number": "+14155552678",
+    "twilio_number": "+15105551237",
+    "call_duration": 210,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller was concerned about abnormally high blood pressure. It was a health monitoring-related medical call."
+  },
+  {
+    "id": "user106",
+    "datetime": "2025-03-16T19:57:49",
+    "type": "Environmental",
+    "caller_number": "+14155552679",
+    "twilio_number": "+15105551238",
+    "call_duration": 270,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller suspected a gas leak in their building. This posed a potential safety threat to residents."
+  },
+  {
+    "id": "user107",
+    "datetime": "2025-03-19T19:57:49",
+    "type": "Emotional",
+    "caller_number": "+14155552680",
+    "twilio_number": "+15105551238",
+    "call_duration": 330,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller expressed feelings of depression and sought emotional support. The call focused on mental health needs."
+  },
+  {
+    "id": "user108",
+    "datetime": "2025-03-22T19:57:49",
+    "type": "Daily Living",
+    "caller_number": "+14155552681",
+    "twilio_number": "+15105551239",
+    "call_duration": 195,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller needed help interpreting a utility bill. This was a request for practical daily assistance."
+  },
+  {
+    "id": "user109",
+    "datetime": "2025-03-24T19:57:49",
+    "type": "Other",
+    "caller_number": "+14155552682",
+    "twilio_number": "+15105551239",
+    "call_duration": 105,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller asked for information about a new ordinance. It was an inquiry about city regulations and policy."
+  },
+  {
+    "id": "user110",
+    "datetime": "2025-03-27T19:57:49",
+    "type": "Not Sure",
+    "caller_number": "+14155552683",
+    "twilio_number": "+15105551240",
+    "call_duration": 75,
+    "is_spam": "NOT_SURE",
+    "reason": "Caller was told to call but didn't know the reason. The intent behind the call was unclear."
+  },
+  {
+    "id": "user111",
+    "datetime": "2025-03-30T19:57:49",
+    "type": "Other",
+    "caller_number": "+14155552684",
+    "twilio_number": "+15105551240",
+    "call_duration": 225,
+    "is_spam": "SPAM",
+    "reason": "Sales call about an extended car warranty. Recognized as a scripted spam call."
+  },
+  {
+    "id": "user112",
+    "datetime": "2025-04-01T19:57:49",
+    "type": "Medical",
+    "caller_number": "+14155552685",
+    "twilio_number": "+15105551241",
+    "call_duration": 255,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller needed to refill a prescription. Medication management assistance was requested."
+  },
+  {
+    "id": "user113",
+    "datetime": "2025-04-03T19:57:49",
+    "type": "Environmental",
+    "caller_number": "+14155552686",
+    "twilio_number": "+15105551241",
+    "call_duration": 135,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller noticed discolored and smelly tap water. They were concerned about water quality in the area."
+  },
+  {
+    "id": "user114",
+    "datetime": "2025-04-06T19:57:49",
+    "type": "Emotional",
+    "caller_number": "+14155552687",
+    "twilio_number": "+15105551242",
+    "call_duration": 285,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller had a panic attack and was seeking immediate support. Emotional crisis prompted the call."
+  },
+  {
+    "id": "user115",
+    "datetime": "2025-04-08T19:57:49",
+    "type": "Daily Living",
+    "caller_number": "+14155552688",
+    "twilio_number": "+15105551242",
+    "call_duration": 165,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller needed transport to a medical appointment. This was a logistics-related request for help."
+  },
+  {
+    "id": "user116",
+    "datetime": "2025-04-11T19:57:49",
+    "type": "Other",
+    "caller_number": "+14155552689",
+    "twilio_number": "+15105551243",
+    "call_duration": 315,
+    "is_spam": "NOT_SPAM",
+    "reason": "Caller wanted to report a pothole on their street. This was a local infrastructure issue."
+  },
+  {
+    "id": "user117",
+    "datetime": "2025-04-13T19:57:49",
+    "type": "Not Sure",
+    "caller_number": "+14155552690",
+    "twilio_number": "+15105551243",
+    "call_duration": 185,
+    "is_spam": "NOT_SURE",
+    "reason": "Caller was unsure what kind of help they needed. They expressed general confusion or distress."
+  }
+]

@@ -1,0 +1,49 @@
+[tool.poetry]
+name = "silverline"
+version = "1.0.0"
+description = "Base file structure of fast api"
+authors = ["Mubashir Ahmed Siddiqui <63141196+mubashir-ahmed@users.noreply.github.com>"]
+readme = "README.md"
+package-mode = false
+
+[[tool.poetry.source]]
+name = "pypi"
+priority = "primary"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+uvicorn = {extras = ["standard"], version = "^0.29.0"}
+fastapi = "^0.111.1"
+aiohttp = "^3.11.11"
+websocket-client = "^1.8.0"
+openai = "^1.59.5"
+soundfile = "^0.13.0"
+pydub = "^0.25.1"
+twilio = "^9.5.0"
+youtube-transcript-api = "^1.0.3"
+duckduckgo-search = "^8.0.0"
+requests = "^2.32.3"
+python-pptx = "^1.0.2"
+pydantic = "^2.11.3"
+python-dotenv = "^1.1.0"
+pandas = "^2.2.3"
+numpy = "^2.2.4"
+matplotlib = "^3.10.1"
+seaborn = "^0.13.2"
+openpyxl = "^3.1.5"
+pyarrow = "^19.0.1"
+scikit-learn = "^1.6.1"
+yfinance = "^0.2.57"
+
+
+[tool.poetry.group.db.dependencies]
+prisma = "^0.13.1"
+
+
+[tool.poetry.group.cronJob.dependencies]
+typing-inspect = "^0.9.0"
+fastapi-utils = "^0.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,48 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: dockerfile
+    ports:
+      - "3000:3000"
+    env_file:
+      - ./frontend/.env
+    networks:
+      - silverline
+  
+  backend:
+    build:
+      context: ./backend
+      dockerfile: dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./backend/.env
+    networks:
+      - silverline
+
+  dialpad:
+    build:
+      context: ./dialpad
+      dockerfile: dockerfile
+    ports:
+      - "3001:3001"
+    env_file:
+      - ./dialpad/.env
+    networks:
+      - silverline
+
+  general_logging:
+    build:
+      context: ./general-logging
+      dockerfile: dockerfile
+    ports:
+      - "3002:3002"
+    env_file:
+      - ./general-logging/.env
+    networks:
+      - silverline
+
+networks:
+  silverline:
+    driver: bridge

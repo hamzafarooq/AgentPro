@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Twilio Dial Pad</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <!-- Include the Twilio Client JS SDK -->
+  <script src="https://sdk.twilio.com/js/client/v1.13/twilio.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Dial Pad</h1>
+    <input type="tel" id="phoneNumber" value="+1 947-282-2980" />
+
+    <!-- Keypad for entering digits -->
+    <div class="keypad">
+      <button class="digit">1</button>
+      <button class="digit">2</button>
+      <button class="digit">3</button>
+      <button class="digit">4</button>
+      <button class="digit">5</button>
+      <button class="digit">6</button>
+      <button class="digit">7</button>
+      <button class="digit">8</button>
+      <button class="digit">9</button>
+      <button class="digit">*</button>
+      <button class="digit">0</button>
+      <button class="digit">#</button>
+    </div>
+
+    <div class="dial-buttons">
+      <button class="call-button" id="callButton">Call</button>
+      <button class="hangup-button" id="hangupButton" disabled>Hang Up</button>
+    </div>
+
+    <div id="status">Ready to make calls</div>
+  </div>
+  <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+/* public/css/style.css */
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: #1e1e1e;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  width: 320px;
+  box-sizing: border-box;
+}
+
+.container h1 {
+  margin-top: 0;
+}
+
+input[type="tel"] {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  background-color: #333;
+  color: #e0e0e0;
+  text-align: center;
+}
+
+/* Keypad layout using CSS grid */
+.keypad {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.keypad button {
+  padding: 15px;
+  font-size: 18px;
+  border: none;
+  border-radius: 4px;
+  background-color: #333;
+  color: #e0e0e0;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.keypad button:hover {
+  background-color: #444;
+}
+
+/* Buttons row for Call and Hang Up */
+.dial-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.call-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.call-button:hover {
+  background-color: #45a049;
+}
+
+.hangup-button {
+  background-color: #f44336;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.hangup-button:hover {
+  background-color: #e53935;
+}
+
+#status {
+  margin-top: 10px;
+  font-weight: bold;
+  min-height: 20px;
+}

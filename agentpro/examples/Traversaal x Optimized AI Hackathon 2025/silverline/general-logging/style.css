@@ -1,0 +1,16 @@
+/* Custom styles; TailwindCSS handles most styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header, table {
+    margin-bottom: 1rem;
+  }
+  
+  select, input, button {
+    outline: none;
+  }
+  
+  /* Optional: Additional loader styling can be added here */
+  
