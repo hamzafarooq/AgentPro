@@ -303,3 +303,10 @@ Silverline isn’t just a tech demo—it’s a mission to **make AI accessible, 
 
 ---
 
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).  
+You are free to use, modify, and distribute it under the terms of the license.
+
+---
