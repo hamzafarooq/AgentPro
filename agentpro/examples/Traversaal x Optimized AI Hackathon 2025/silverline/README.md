@@ -1,3 +1,14 @@
+## 🏆 Team: Going Merry  
+**🏅 Achievement:** Winner – Traversaal x Optimized AI Hackathon 2025  
+
+### 👤 Team Member  
+**Mubashir Ahmed Siddiqui**  
+📧 Email: [mubashirsidiki@gmail.com](mailto:mubashirsidiki@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/mubashirsidiki](https://www.linkedin.com/in/mubashirsidiki/)  
+🐙 GitHub: [github.com/mubashirsidiki](https://github.com/mubashirsidiki)
+
+---
+
 ![P2QZhx_0CeuX17ot_ktRChd](https://github.com/user-attachments/assets/b67ad0af-6603-4af2-9353-f0018de82ef1)
 
 # 🧓 Silverline – A Voice of Hope for the Elderly
