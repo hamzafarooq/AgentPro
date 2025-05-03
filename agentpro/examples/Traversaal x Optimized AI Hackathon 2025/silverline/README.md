@@ -114,15 +114,15 @@ It’s a demonstration of the benefits of building a deeply integrated voice int
 ### 🔻 Clone the Repository
 
 ```bash
-git clone https://github.com/mubashirsidiki/Traversaal-x-Optimized-AI-Hackathon.git
-cd Traversaal-x-Optimized-AI-Hackathon
+git clone https://github.com/traversaal-ai/AgentPro
+cd AgentPro
 ```
 
 ---
 
 ### 🛠️ Set Up Environment Variables
 
-#### 📂 In `/backend/.env`
+#### 📂 In `agentpro/examples/Traversaal x Optimized AI Hackathon 2025/silverline/backend/.env`
 
 ```
 # OpenAI API Key:
@@ -144,7 +144,7 @@ DATABASE_URL=
 TRAVERSAAL_ARES_API_KEY=
 ```
 
-#### 📂 In `/frontend/.env`
+#### 📂 In `agentpro/examples/Traversaal x Optimized AI Hackathon 2025/silverline/frontend/.env`
 
 ```
 # API Configuration
@@ -157,7 +157,7 @@ NEXT_PUBLIC_DIALPAD_URL=http://localhost:3001/dialer
 NEXT_PUBLIC_LOG_VIEWER_URL=http://localhost:3002/gen-log
 ```
 
-#### 📂 In `/dialpad/.env`
+#### 📂 In `agentpro/examples/Traversaal x Optimized AI Hackathon 2025/silverline/dialpad/.env`
 
 ```
 # Twilio Configuration
@@ -172,7 +172,7 @@ TWILIO_TWIML_APP_SID=
 PORT=3001
 ```
 
-#### 📂 In `/general-logging/.env`
+#### 📂 In `agentpro/examples/Traversaal x Optimized AI Hackathon 2025/silverline/general-logging/.env`
 
 ```
 # API Endpoints
@@ -186,10 +186,14 @@ FRONTEND_API=
 ### 🐳 Run with Docker (Recommended)
 
 ```bash
+cd 'agentpro/examples/Traversaal x Optimized AI Hackathon 2025/silverline'
 docker-compose up --build -d
 ```
 
-To stop:
+> 💡 **Twilio Setup:**  
+Refer to **Step 5** in the **"Run Without Docker"** section.
+
+To stop the containers:
 
 ```bash
 docker-compose down
