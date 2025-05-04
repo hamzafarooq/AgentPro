@@ -1,48 +1,47 @@
-# 🧠 TROJAN_AI – Diabetes Prediction Agentic AI (Powered by AgentPro)
+# 🧠 TROJAN\_AI – Diabetes Prediction Agentic AI (Powered by AgentPro)
 
-Welcome to **TROJAN_AI**, our Diabetes Prediction Agentic AI system built on **AgentPro**.  
+Welcome to **TROJAN\_AI**, our Diabetes Prediction Agentic AI system built on **AgentPro**.
 This example demonstrates how to wrap a Streamlit-based ML tool into an LLM-driven agent pipeline.
 
 ---
 
 ## 🚀 Features
 
-- 🔮 **LLM-powered Agent** routes user queries to your diabetes predictor.  
-- 🩺 **Diabetes Prediction Tool** uses a trained ML model (Logistic Regression).  
-- 🛠️ **AgentPro modular architecture** for easy extension.  
-- 🌐 **Streamlit frontend** for both form-based and natural-language interaction.  
-- 📊 Handles raw data and imputes missing zeros with statistical means.
+* 🔮 **LLM-powered Agent** routes user queries to your diabetes predictor.
+* 🩺 **Diabetes Prediction Tool** uses a trained ML model (Logistic Regression).
+* 🛠️ **AgentPro modular architecture** for easy extension.
+* 🌐 **Streamlit frontend** for both form-based and natural-language interaction.
+* 📊 Handles raw data and imputes missing zeros with statistical means.
 
 ---
 
 ## 📂 Directory Structure
 
 ```
-
-agentpro/examples/Traversaal x Optimized AI Hackathon 2025/TROJAN\_AI/
+agentpro/examples/Traversaal x Optimized AI Hackathon 2025/TROJAN_AI/
 ├── app.py                   # Streamlit app + AgentPro integration
-├── diabetes\_tool.py         # Custom Tool implementing diabetes prediction
+├── diabetes_tool.py         # Custom Tool implementing diabetes prediction
 ├── system.py                # (alias) main entrypoint for Streamlit
-├── Diabetes\_Prediction.ipynb# Notebook demo
+├── Diabetes_Prediction.ipynb# Notebook demo
 ├── requirements.txt         # Python dependencies
-├── impute\_means.pkl         # Pickled means for imputation
+├── impute_means.pkl         # Pickled means for imputation
 ├── scaler.pkl               # Pickled scaler
 ├── model.pkl                # Pickled trained model
-├── feature\_names.pkl        # Feature list
+├── feature_names.pkl        # Feature list
 ├── diabetes.csv             # Sample dataset
-└── user\_data.csv            # Sample user inputs
-
-````
+└── user_data.csv            # Sample user inputs
+```
 
 ---
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the AgentPro repository**  
+1. **Clone the AgentPro repository**
+
    ```bash
    git clone https://github.com/traversaal-ai/AgentPro.git
    cd AgentPro
-````
+   ```
 
 2. **Install AgentPro**
 
@@ -131,3 +130,4 @@ Feel free to adapt or extend this example:
 ---
 
 Happy hacking! 🎉
+
