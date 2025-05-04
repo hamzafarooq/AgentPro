@@ -38,21 +38,45 @@ agentpro/examples/Traversaal x Optimized AI Hackathon 2025/TROJAN\_AI/
 
 ## 🛠️ Installation & Setup
 
-From the root of your **AgentPro** clone:
-
-```bash
-# ensure you're on your PR branch
-git checkout traversaal-ai-hackathon-trojan
-
-# install AgentPro (if not already)
-pip install agentpro
-
-# then install example-specific deps
-cd agentpro/examples/"Traversaal x Optimized AI Hackathon 2025"/TROJAN_AI
-pip install -r requirements.txt
+1. **Clone the AgentPro repository**  
+   ```bash
+   git clone https://github.com/traversaal-ai/AgentPro.git
+   cd AgentPro
 ````
 
-> **Note:** If your local clone’s root directory is named `AgentPro` (capital letters), rename it to `agentpro` before running, so Python imports resolve:
+2. **Install AgentPro**
+
+   ```bash
+   pip install .
+   ```
+
+   or, if you prefer editable mode:
+
+   ```bash
+   pip install -e .
+   ```
+
+3. **Go to the TROJAN\_AI example**
+
+   ```bash
+   cd agentpro/examples/"Traversaal x Optimized AI Hackathon 2025"/TROJAN_AI
+   ```
+
+4. **Install example-specific dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. **Run the Streamlit app**
+
+   ```bash
+   streamlit run app.py
+   ```
+
+   Then open the URL (usually `http://localhost:8501/`) in your browser.
+
+> **Note:** If your local folder is named `AgentPro` (capital letters), rename it to lowercase so Python imports resolve:
 >
 > ```bash
 > mv AgentPro agentpro
@@ -107,6 +131,3 @@ Feel free to adapt or extend this example:
 ---
 
 Happy hacking! 🎉
-
-```
-
