@@ -1,0 +1,52 @@
+# Ignore Python cache and environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore IDE/editor-specific settings
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.class
+*.o
+*.so
+*.exe
+
+# Ignore FAISS and pickle files
+*.faiss
+*.pkl
+*.h5
+*.bin
+
+# Ignore datasets or sensitive files
+data/
+*.csv
+*.json
+*.xlsx
+
+# Ignore config files you don't want to share
+config.yaml
+secrets.yaml
+config.json
+credentials.json
+
+# Ignore AWS credentials
+.aws/

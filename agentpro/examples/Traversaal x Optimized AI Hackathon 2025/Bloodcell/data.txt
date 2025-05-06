@@ -1,0 +1,560 @@
+
+
+--- CONTENT FROM: https://www.kenhub.com/en/library/anatomy/cells-of-the-blood ---
+Cells of the blood
+
+Introduction
+
+Erythrocytes
+
+Red blood cells
+
+Hemoglobin
+
+Leukocytes
+
+Neutrophils
+
+Lymphocytes
+
+Eosinophils
+
+Basophils
+
+Monocytes
+
+Thrombocytes
+
+Blood clot formation
+
+Sources
+
+Learning anatomy isn't impossible.We're here to help.
+
+Want access to this video?
+
+Want access to this quiz?
+
+Want access to this gallery?
+
+Register nowand grab your free ultimate anatomy study guide!
+
+Author: 
+Julie Doll, MSc
+•Reviewer: 
+Francesca Salvador, MScLast reviewed: July 06, 2023Reading time: 10 minutes
+
+In this article we will describe the different types of blood cells.Bloodis specialized fluid connectivetissue. It travels through thecirculatory systemtransporting gases, nutrients, wastes, and other macromolecules throughout the body. The main gases traveling in the blood are oxygen and carbon dioxide. Circulating macromolecules include hormones, nutrients, plasma proteins, and some humoral components of the immune system. Blood also acts as a buffer to maintain homeostasis and partakes in regulation of body temperature.
+
+Blood is made up of two main components: blood cells and plasma. Theplasma, an aqueous solution, is mostly made up of water but contains some important solutes. About 7-8% of the plasma is made up of the proteins albumin, globulins, and fibrinogen. Other solutes, only 1-2% of plasma, include electrolytes such as Na+ and Ca+, urea and uric acid, glucose, lipids, hormones, and gases.Blood cellsare classified as either erythrocytes or leukocytes.Erythrocytesare commonly referred to as red blood cells or RBCs. Leukocytes are white blood cells, or WBC. A smaller third cellular constituent are thethrombocytes(platelets).
+
+In routine laboratory testing, blood can be spun down in acentrifugeto separate the plasma from the blood cells. Spinning down the cells reveals the hematocrit of the blood. Thehematocritis a measure of the erythrocyte content of a blood sample. A normal reading is between 39-50%. Males have a slightly higher hematocrit than females. Leukocytes and platelets separate from the hematocrit and form a small buffy coat between the plasma and erythrocytes.
+
+Erythrocytes, or red blood cells (RBCs), have predictable dimensions which makes them a good“histologic ruler”. They are circular with a diameter of 7.8 micrometers. Erythrocytes are shaped likebiconcavediscs(donut). At their perimeter they are 2.6 micrometers thick, at the center they are only 0.8 micrometers thick. This shape increases the cell's surface area to allow for more oxygen binding. Because these dimensions are typically consistent, leukocytes can be identified by comparing their size to that of the erythrocytes.
+
+The shape of erythrocytes depends largely onmembrane proteins. Integral and peripheral membrane proteins maintain the biconcave shape of erythrocytes. There are more integral membrane proteins in the lipid bilayer than peripheral membrane proteins. They are classified as either glycophorin or band 3 proteins.Band 3 proteinsbind to hemoglobin and act as an anchor for cytoskeletal proteins.Glycophorinproteins form the main attachments between the lipid bilayer and thecytoskeleton.
+
+Hemoglobin is a globular protein found in erythrocytes. It is capable of binding and carrying several gases, including the vasodilatornitrous oxide, but its main function is to transportoxygenandcarbon dioxide. Blood carries oxygen away from thelungsto the periphery and carbon dioxide from peripheral tissues back to the lung to facilitate gas exchange in the alveoli. A hemoglobin protein is made up of four polypeptide chains; twoalphachainsand twobetachains, each featuring ahemegroupcapable of binding oxygen. The heme group itself is shaped like a ring with an iron atom in the center.
+
+Oxygen binds to hemoglobin throughpositive cooperation. That is, once an oxygen ion binds to a heme group, the iron atom is shifted in the ring which facilitates the binding of oxygen ions to the remaining three heme groups. The erythrocytes can then transport oxygen from the lungs to tissues throughout the body. There are approximately 250 million hemoglobin proteins in each erythrocyte therefore one red blood cell can carry around one billion oxygen ions at once.
+
+Leukocytes, also called White Blood Cells (WBCs), are associated with the immune system. There are three main classifications of leukocytes:lymphocytes, granulocytes, and agranulocytes.Granulocytes, as their name suggests, are white blood cells that have granules present in their cytoplasm.Agranulocytesdo not have these granules. Using a  special histological staining method (Wright’s Stain), leukocytes can be seen under a microscope. This stain includes azure B to stain the granules in the cytoplasm of white blood cells so that they can be differentiated.
+
+Leukocytes are classified by both the shape of their nuclei and the presence or absence of azurophilic granules in their cytoplasm.Neutrophils, basophils, andeosinophilsare all polymorphonuclear granulocytes.Polymorphonuclear cellshave nuclei with multiple lobes. Monocytes and lymphocytes are mononuclear agranulocytes.Mononuclear cellshave a single nucleus. The buffy coat, seen when blood is spun down in a centrifuge to separate its cellular components, is generally made up of 60-70% neutrophils, 20-25% lymphocytes, 3-8% monocytes, 2-4% eosinophils, and less than 1% basophils.
+
+Neutrophils make up over half of the volume of white blood cells. The cytoplasm stains lightly and contains small, lavender coloredgranules. They are about 12-15 micrometers in diameter and have dark-stainingmultilobed nuclei. There are three types of granules in the cytoplasm of neutrophils: specific or secondary granules, azurophilic granules, and tertiary granules.
+
+Specific granulesare the smallest and most numerous and contain several enzymes: phospholipase and type IV collagenase.Azurophilic granulesare the neutrophils’ lysosomes. There are two types oftertiary granulesthat contain either phosphatases or metalloproteinases. Neutrophils are active phagocytes that engulf bacteria. They can be considered the first responders of the (innate) immune system as they are often the first leukocytes to be activated in response to a pathogen.
+
+The large,rounded nucleusof a lymphocyte takes up most of the volume of the cell and stains very dark blue. The cytoplasm appears as a narrow, lightly stained rim around the large nucleus where it does not contain granules.
+
+Lymphocytes, the main functional cells of the immune system, are further classified by function and origin. For example,NK (natural killer) cellsdestroy virus infected and cancerous cells,B lymphocytesare involved in the production of circulating antibodies, andT lymphocytesare involved in cell-mediated immunity. Immunohistochemistry is required to identify individual types of lymphocytes in microscopy.
+
+Eosinophils contain manybrightly staining granulesin their cytoplasm that give them a characteristic pink color when viewed with a Wright’s stain. Theirbilobed nucleistain lightly in comparison to the granules. Eosinophils are also about 12-15 micrometers in diameter. Eosinophils releasehistaminaseduring  allergic reactions and are associated with inflammatory responses and helminthic responses to parasitic and protozoan infections.
+
+Basophils are the least abundant leukocytes in the blood; however, they are the largest granulocyte. The cytoplasm of basophils contains manyblue granulesthat obscure the lightly stainedbilobed nucleus. Basophils are associated with allergic responses as well: they releasehistamineand vasoactive agents to dilate blood vessels thereby intensifying the allergic reaction.
+
+Monocytes are the largest leukocytes circulating in the blood at 12-20 micrometers in diameter. They are agranulocytes with a light andfoamy cytoplasm. Monocytes are easily identified by their size and their large, kidney orhorse-shoe shaped nucleus.
+
+In the periphery, monocytes differentiate into phagocyticmacrophages.Phagocytosisis a process in which a cell engulfs and ingest a macromolecule or microorganism. Themacrophagesdifferentiate further upon reaching their target tissues.Kupffer cellsare found in theliver.Alveolarmacrophages are found in the lung. The red pulp of thespleencontainssplenicmacrophages.Peritonealmacrophages are found free-floating in peritoneal fluid.Microglial cellsare specialized macrophages found in thenervous system.
+
+Thrombocytes, more commonly known asplatelets, are small, formed elements found throughout the blood. Because they do not contain a nucleus or organelles, they are not considered to be true cells. Rather, they arecell fragmentsderived frommegakaryocytes, polyploid cells found in bone marrow. At only 2-4 micrometers in diameter, they are significantly smaller than any other cellular structures in the blood. Functionally, platelets are essential for forming clots in response to tears in blood vessels.
+
+Blood clots are formed in response to injury/trauma of a blood vessel. The four basic steps to coagulation are:
+
+In more detail, a tear in a blood vessel exposescollagen. Platelets bind to the exposed collagen through membrane proteins calledintegrins. This binding activates the platelets and they release serotonin, ADP, and platelets-activating factor. More platelets are recruited to the site of injury by theplatelets-activating factor.
+
+Platelets-activating factor simultaneously activates pathways to convert phospholipids in the membranes: thromboxane A2.Thromboxane A2andserotoninact as vasoconstrictors and contribute to platelet accumulation. Ultimately, the recruited platelets form aplatelet plugthat will be converted to a clot through the coagulation cascade. Thecoagulation cascadeis a series of reactions that results in the conversion of fibrinogen to fibrin and the formation of a cross-linkedfibrin meshthat traps erythrocytes.
+
+References:
+
+Cells of the blood: want to learn more about it?
+
+Our engaging videos, interactive quizzes, in-depth articles and HD atlas are here to get you top results faster.
+
+What do you prefer to learn with?
+
+“I would honestly say that Kenhub cut my study time in half.”
+–Read more.
+
+Register nowand grab your free ultimate anatomy study guide!
+
+Grounded on academic literature and research, validated by experts, and trusted by more than 5 million users.Read more.
+
+Kenhub fosters a safe learning environment through diverse model representation, inclusive terminology and open communication with our users.Read more.
+
+Copyright ©
+2025
+Kenhub.
+All rights reserved.
+
+Learning anatomy is a massive undertaking, and we're here to help you pass with flying colours.
+
+...it takes less than 60 seconds!
+
+...it takes less than 60 seconds!
+
+...it takes less than 60 seconds!
+--- END CONTENT ---
+
+
+--- CONTENT FROM: https://www.ncbi.nlm.nih.gov/books/NBK2263/ ---
+Bookshelf
+
+Blood Groups and Red Cell Antigens [Internet].
+
+Chapter 1Blood and the cells it contains
+
+Blood contains cells, proteins, and sugars
+
+Red blood cells transport oxygen
+
+White blood cells are part of the immune response
+
+Neutrophils digest bacteria
+
+Monocytes become macrophages
+
+Lymphocytes consist of B cells and T cells
+
+Platelets help blood to clot
+
+Your complete blood count
+
+Red blood cell count detects anemia
+
+Hematocrit is the percentage of RBCs in relation to the total volume of blood
+
+The number of WBCs increases in infection and tumors
+
+The number of platelets indicates whether bleeding or clotting is likely
+
+Hemoglobin binds oxygen
+
+Heme groups and globins
+
+Hemoglobin transports oxygen
+
+Fetal hemoglobin
+
+Breaking down hemoglobin
+
+Hemoglobinopathies
+
+Resources
+
+Views
+
+In this Page
+
+Recent Activity
+
+Warning:The NCBI web site requires JavaScript to function.more...
+
+An official website of the United States government
+
+The .gov means it's official.Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+
+The site is secure.Thehttps://ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+Dean L. Blood Groups and Red Cell Antigens [Internet]. Bethesda (MD): National Center for Biotechnology Information (US); 2005.
+
+The average human adult has more than 5 liters (6 quarts) of blood in his or her
+body. Blood carries oxygen and nutrients to living cells and takes away their waste
+products. It also delivers immune cells to fight infections and contains platelets
+that can form a plug in a damaged blood vessel to prevent blood loss.
+
+Through the circulatory system, blood adapts to the body's needs. When you are
+exercising, your heart pumps harder and faster to provide more blood and hence
+oxygen to your muscles. During an infection, the blood delivers more immune cells to
+the site of infection, where they accumulate to ward off harmful invaders.
+
+All of these functions make blood a precious fluid. Each year in the USA, 30 million
+units of blood components are transfused to patients who need them. Blood is deemed
+so precious that is also called "red gold" because the cells and proteins it
+contains can be sold for more than the cost of the same weight in gold.
+
+This chapter introduces the components of blood.
+
+If a test tube of blood is left to
+stand for half an hour, the blood separates into three layers as the denser
+components sink to the bottom of the tube and fluid remains at the top.
+
+The straw-colored fluid that forms the top layer is called plasma and forms about 60%
+of blood. The middle white layer is composed of white blood cells (WBCs) and
+platelets, and the bottom red layer is the red blood cells (RBCs). These bottom two
+layers of cells form about 40% of the blood.
+
+Plasma is mainly water, but it also contains many important substances such as
+proteins (albumin, clotting factors, antibodies, enzymes, and hormones), sugars
+(glucose), and fat particles.
+
+All of the cells found in the blood come from bone marrow. They begin their life as
+stem cells, and they mature into three main types of cells— RBCs, WBCs,
+and platelets. In turn, there are three types of WBC—lymphocytes,
+monocytes, and granulocytes—and three main types of granulocytes
+(neutrophils, eosinophils, and basophils). See them in action in "Meet the blood cells".
+
+Meet the blood cells.
+
+See a figure of all the cellular elements of blood in Janeway & Traver'sImmunobiology
+
+A sample of blood can be further separated into its individual components by spinning
+the sample in a centrifuge. The force of the spinning causes denser elements to
+sink, and further processing enables the isolation of a particular protein or the
+isolation of a particular type of blood cell. With the use of this method,
+antibodies and clotting factors can be harvested from the plasma to treat immune
+deficiencies and bleeding disorders, respectively. Likewise, RBCs can be harvested
+for blood transfusion.
+
+Every second, 2-3 million RBCs are
+produced in the bone marrow and released into the circulation. Also known as
+erythrocytes, RBCs are the most common type of cell found in the blood, with each
+cubic millimeter of blood containing 4-6 million cells. With a diameter of only 6
+µm, RBCs are small enough to squeeze through the smallest blood vessels.
+They circulate around the body for up to 120 days, at which point the old or damaged
+RBCs are removed from the circulation by specialized cells (macrophages) in the
+spleen and liver.
+
+In humans, as in all mammals, the mature RBC lacks a nucleus. This allows the cell
+more room to store hemoglobin, the oxygen-binding protein, enabling the RBC to
+transport more oxygen. RBCs are also biconcave in shape; this shape increases their
+surface area for the diffusion of oxygen across their surfaces. In non-mammalian
+vertebrates such as birds and fish, mature RBCs do have a nucleus.
+
+See an electron micrograph of red blood cells in Albert'sMolecular Biology of the Cell
+
+If a patient has a low level of hemoglobin, a condition called anemia, they may
+appear pale because hemoglobin gives RBCs, and hence blood, their red color. They
+may also tire easily and feel short of breath because of the essential role of
+hemoglobin in transporting oxygen from the lungs to wherever it is needed around the
+body.
+
+WBCs come in many different shapes and sizes. Some cells have nuclei with multiple
+lobes, whereas others contain one large, round nucleus. Some contain packets of
+granules in their cytoplasm and so are known as granulocytes.
+
+See an electron micrograph of white blood cells in Albert'sMolecular Biology of the Cell
+
+Despite their differences in appearance, all of the various types of WBCs have a role
+in the immune response. They circulate in the blood until they receive a signal that
+a part of the body is damaged. Signals include interleukin 1 (IL-1), a molecule
+secreted by macrophages that contributes to the fever of infections, and histamine,
+which is released by circulating basophils and tissue mast cells, and contributes to
+allergic reactions. In response to these signals, the WBCs leave the blood vessel by
+squeezing through holes in the blood vessel wall. They migrate to the source of the
+signal and help begin the healing process.
+
+Individuals who have low levels of WBCs may have more and worse infections. Depending
+upon which WBCs are missing, the patient is at risk for different types of
+infection. For example, macrophages are especially good at swallowing bacteria, and
+a deficiency in macrophages leads to recurrent bacterial infections. In contrast, T
+cells are particularly skilled in fighting viral infections, and a loss of their
+function results in an increased susceptibility to viral infections.
+
+Neutrophils are also known as
+polymorphonuclear cells because they contain a nucleus whose shape (morph) is
+irregular and contains many (poly) lobes. They also belong to a group of WBCs
+known as granulocytes because their cytoplasm is dotted with granules that
+contain enzymes that helps them digest pathogens.
+
+See a neutrophil phagocytose a bacterium in Albert'sMolecular Biology of the Cell
+
+Monocytes are young WBCs that
+circulate in the blood. They develop into macrophages after they have left the
+blood and migrated into tissue. There they provide an immediate defense because
+they can engulf (phagocytose) and digest pathogens before other types of WBCs
+reach the area.
+
+In the liver, tissue macrophages are called Kupffer cells, and they specialize in
+removing harmful agents from blood that has left the gut. Alveolar macrophages
+are in the lungs and remove harmful agents that may have been inhaled.
+Macrophages in the spleen remove old or damaged red blood cells and platelets
+from the circulation.
+
+See a macrophage phagocytose a red blood cell in Albert'sMolecular Biology of the Cell
+
+Macrophages are also "antigen-presenting cells", presenting the foreign proteins
+(antigens) to other immune cells, triggering an immune response.
+
+Lymphocytes are round cells that
+contain a single, large round nucleus. There are two main classes of cells, the
+B cells that mature in the bone marrow, and the T cells that mature in the
+thymus gland.
+
+See an electron micrograph of a B cell and T cell in Albert'sMolecular Biology of the Cell
+
+Once activated, the B cells and T cells trigger different types of immune
+response. The activated B cells, also known as plasma cells, produce highly
+specific antibodies that bind to the agent that triggered the immune response. T
+cells, called helper T cells, secrete chemicals that recruit other immune cells
+and help coordinate their attack. Another group, called cytotoxic T cells,
+attacks virally infected cells.
+
+Platelets are irregularly shaped
+fragments of cells that circulate in the blood until they are either activated to
+form a blood clot or are removed by the spleen. Thrombocytopenia is a condition of
+low levels of platelets and carries an increased risk of bleeding. Conversely, a
+high level of platelets (thrombocythemia) carries an increased risk of forming
+inappropriate blood clots. These could deprive essential organs such as the heart
+and brain, of their blood supply, causing heart attacks and strokes, respectively.
+
+A diagram of a platelet in Albert'sMolecular Biology of the Cell
+
+As with all the cells in the blood, platelets originate from stem cells in the bone
+marrow. The stem cells develop into platelet precursors (called megakaryocytes) that
+"shed" platelets into the bloodstream. There, platelets circulate for about 9 days.
+If they encounter damaged blood vessel walls during this time, they stick to the
+damaged area and are activated to form a blood clot. This plugs the hole. Otherwise,
+at the end of their life span they are removed from the circulation by the spleen.
+In a diverse number of diseases where the spleen is overactive, e.g. rheumatoid
+arthritis and leukemia, the spleen removes too many platelets, leading to increased
+bleeding.
+
+A complete blood count (CBC) is a simple blood test that is commonly ordered as part
+of a routine medical assessment. As the name suggests, it is a count of the
+different types of cells found in the blood. The test can diagnose and monitor many
+different diseases, such as anemia, infection, inflammatory diseases, and
+malignancy.Table 1gives an example of
+CBC values, but note that the reference ranges and the units used may differ,
+depending upon the laboratory that carried out the test.
+
+Complete blood count.
+
+A CBC measures the following features of RBCs:
+
+The CBC also includes information about RBCs that is calculated from the other
+measurements, e.g., the amount (MCH) and concentration (MCHC) of hemoglobin in
+RBCs.
+
+The number of RBCs and the amount of hemoglobin in the blood are lower in women
+than in men. This is because of the menstrual loss of blood each month. Below a
+certain level of hemoglobin, a patient is said to be anemic, suggesting a
+clinically significant drop in oxygen carrying capacity. Anemia is not a
+diagnosis but a symptom of an underlying disease that has to be investigated.
+
+A clue to the cause of anemia is the average size of RBC (mean corpuscular
+volume, MCV). Causes of a high MCV include a deficiency of B12or
+folate vitamins in the diet. B12is found in red meat therefore, a
+deficiency of B12is especially common in vegetarians and vegans.
+Conversely, folate is plentiful in fresh leafy green vegetables, therefore, a
+deficiency of folate is common in the elderly, who may have a poor diet.
+
+Low MCV anemia is common and may be a result of hereditary blood disorders, such
+as thalassemia, but is most often caused by a deficiency of iron. For example,
+women of reproductive age may lose too much iron through heavy menstrual
+bleeding and are prone to this form of anemia, known as iron-deficiency anemia.
+
+The hematocrit measures the fraction of the blood that is made up of RBCs. It
+reflects the combination of the total number of RBCs, and the volume that they
+occupy.
+
+One of the changes seen in pregnancy is a drop in hematocrit. This occurs because
+although the production of RBCs does not change greatly, the plasma volume
+increases, i.e., the RBCs are "diluted". Alternatively, a low hematocrit can
+reflect a drop in RBC production by the bone marrow. This may be attributable to
+bone marrow disease (damage by toxins or cancer) or due to a decrease in
+erythropoietin, a hormone secreted by the kidney that stimulates RBC production.
+Decreased RBCs may also be the result of a reduced life span of the RBCs (e.g.,
+chronic bleeding).
+
+A high hematocrit value may truly reflect an increase in the fraction of RBCs
+(e.g., increased erythropoietin attributable to a tumor of RBCs called
+polycythemia rubra vera), or it may reflect a drop in the plasma component of
+the blood (e.g., fluid loss in burn victims).
+
+The WBC count is a count of the number of WBCs found in one cubic millimeter of
+blood.
+
+An increased number of WBCs is most commonly caused by infections, such as a
+urinary tract infection or pneumonia. It may also be caused by WBC tumors, such
+as leukemia.
+
+A decreased number of WBCs is caused by the bone marrow failing to produce WBCs
+or by an increased removal of WBCs from the circulation by a diseased liver or
+an overactive spleen. Bone marrow failure may be caused by toxins or by the
+normal bone marrow cells being replaced by tumor cells.
+
+The WBC differential part of the CBC breaks down the WBCs into five different
+types: neutrophils, lymphocytes, monocytes, eosinophils, and basophils. Finding
+out the count of each type of WBC gives more information about the underlying
+problem. For example, in the early stages of an infection, most of the increase
+in WBCs is attributable to the increase in neutrophils. As the infection
+continues, lymphocytes increase. Worm infections can trigger an increase in
+eosinophils, whereas allergic conditions, such as hay fever, trigger an increase
+in basophils.
+
+Normally, one cubic millimeter of blood contains between 150,000 and 400,000
+platelets. If the number drops below this range, uncontrolled bleeding becomes a
+risk, whereas a rise above the upper limit of this range indicates a risk of
+uncontrolled blood clotting.
+
+Hemoglobin is the oxygen-carrying protein that is found within all RBCs. It picks up
+oxygen where it is abundant (the lungs) and drops off oxygen where it is needed
+around the body. Hemoglobin is also the pigment that gives RBCs their red color.
+
+As its name suggests, hemoglobin is composed of "heme" groups (iron-containing
+rings) and "globins" (proteins). In fact, hemoglobin is composed of four globin
+proteins—two alpha chains and two beta chains—each with
+a heme group. The heme group contains one iron atom, and this can bind one
+molecule of oxygen. Because each molecule of hemoglobin contains four globins,
+it can carry up to four molecules of oxygen.
+
+See hemoglobin structure in Albert'sMolecular Biology of the Cell
+
+In the lungs, a hemoglobin molecule is surrounded by a high concentration of
+oxygen, therefore, it binds oxygen. In active tissues, the oxygen concentration
+is lower, so hemoglobin releases its oxygen.
+
+This behavior is much more effective because the
+hemoglobin––oxygen binding is "co-operative". This means
+that the binding of one molecule of oxygen makes it easier for the binding of
+subsequent oxygen molecules. Likewise, the unbinding of oxygen makes it easier
+for other oxygen molecules to be released. This means that the response of
+hemoglobin to the oxygen needs of active tissues is much quicker.
+
+Aside from the oxygen saturation of hemoglobin, other factors that influence how
+readily hemoglobin binds oxygen include plasma pH, plasma bicarbonate levels,
+and the pressure of oxygen in the air (high altitudes in particular).
+
+The molecule 2,3-disphosphoglycerate (2,3-DPG ) binds to hemoglobin and lowers
+its affinity for oxygen, thus promoting oxygen release. In individuals who have
+become acclimatized to living at high altitudes, the level of 2,3-DPG in the
+blood increases, allowing the delivery of more oxygen to tissues under low
+oxygen tension.
+
+Fetal hemoglobin differs from adult hemoglobin in that it contains two gamma
+chains instead of two beta chains. Fetal hemoglobin binds oxygen with a much
+greater affinity than adult hemoglobin; this is an advantage in the womb because
+it allows fetal blood to extract oxygen from maternal blood, despite its low
+concentration of oxygen.
+
+Normally, all fetal hemoglobin is replaced by adult hemoglobin by the time of
+birth.
+
+Old or damaged RBCs are removed from the circulation by macrophages in the spleen
+and liver, and the hemoglobin they contain is broken down into heme and globin.
+The globin protein may be recycled, or broken down further to its constituent
+amino acids, which may be recycled or metabolized. The heme contains precious
+iron that is conserved and reused in the synthesis of new hemoglobin molecules.
+
+During its metabolism, heme is converted to bilirubin, a yellow pigment that can
+discolor the skin and sclera of the eye if it accumulates in the blood, a
+condition known as jaundice. Instead, the plasma protein albumin binds to
+bilirubin and carries it to the liver, where it is secreted in bile and also
+contributes to the color of feces.
+
+Jaundice is one of the complications of an incompatible blood transfusion. This
+occurs when the recipient's immune system attacks the donor RBCs as being
+foreign. The rate of RBC destruction and subsequent bilirubin production can
+exceed the capacity of the liver to metabolize the bilirubin produced.
+
+Hemoglobinopathies form a group of inherited diseases that are caused by
+mutations in the globin chains of hemoglobin. Sickle cell anemia is the most
+common of these and is attributable to a mutation that changes one of the amino
+acids in the hemoglobin beta chain, producing hemoglobin that is "fragile". When
+the oxygen concentration is low, RBCs tend to become distorted and "sickle"
+shaped. These deformed cells can block small blood vessels and damage the organs
+they are supplying. This can be very painful, and if not treated, a sickle cell
+crisis can be fatal.
+
+Sickle cell anemia inGenes and Disease
+
+Another inherited anemia that particularly affects individuals of Mediterranean
+descent is thalassemia. A fault in the production of either alpha or beta globin
+chains causes a range of symptoms, depending on how many copies of the alpha and
+beta genes are affected. Some individuals may be carriers of the disease and
+have no symptoms, whereas if all copies of the genes are lost, the disease is
+fatal.
+
+Thalassemia inGenes and Disease
+
+The porphyrias are a group of inherited disorders in which the synthesis of heme
+is disrupted. Depending upon the stage at which the disruption occurs, there are
+a range of neurological and gastrointestinal side effects. King George III of
+England ("the madness of King George") was one of the most famous individuals
+who suffered from porphyria.
+
+Porphyria inGenes and Disease
+
+Karl
+Landsteiner, Nobel Laureatefrom Nobelprize.org
+
+Red Gold: the epic story
+of bloodfrom Public Broadcasting Service (PBS)
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine8600 Rockville PikeBethesda, MD 20894
+
+Web PoliciesFOIAHHS Vulnerability Disclosure
+
+HelpAccessibilityCareers
+--- END CONTENT ---
+
+
+--- CONTENT FROM: https://www.nhlbi.nih.gov/education/blood/donation ---
+Donate Blood. Save Lives.
+
+Did you know?
+
+Share with others the importance of blood donation & safety!
+
+An official website of the United States government
+
+Here’s how you know
+
+Official websites use .govA.govwebsite belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPSAlock(A locked padlock) orhttps://means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+Shortages in the nation's blood supply can happen any time. Consider being a blood donor!
+
+Blood donation is a safe and simple procedure. All donated blood products are carefully tested and then stored or shipped so they are ready for patients who need a blood transfusion.
+
+Not sure if you're eligible or have never donated blood before?Learn about eligibility requirements here.Revised guidance and changes including, the elimination of questions based on sex and sexual orientation, are making it possible for more people to donate than ever.
+
+Your donation can help save lives.Find a blood donation center near you.
+
+Learn more about the importance of blood donation, blood types, and how to donate blood.
+
+Live Chat
+
+Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.
+
+Get Email Alerts
+
+Receive automatic alerts about NHLBI related news and highlights from across the Institute.
+--- END CONTENT ---
