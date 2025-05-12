@@ -1,0 +1,1 @@
+In a world reclaimed by nature, Mira, the last cat, roams the ruins of New York City, yearning for the companionship of her lost human family. When a scruffy dog crosses her path, they embark on a journey that intertwines their fates, proving that even in solitude, the spirit of friendship can thrive.

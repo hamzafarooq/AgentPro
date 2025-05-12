@@ -1,0 +1,27 @@
+streamlit
+llama-index
+llama-index-llms-openai
+setuptools
+AgentPro @ git+https://github.com/traversaal-ai/AgentPro.git
+tavily-python
+python-dotenv==1.0.0
+openai
+requests
+pydantic 
+
+
+youtube_transcript_api
+duckduckgo-search
+requests
+python-pptx
+
+
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+pyarrow
+matplotlib
+scikit-learn
+seaborn
