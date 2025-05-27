@@ -1,7 +1,7 @@
 import os
 import argparse
 from agentpro import ReactAgent
-from agentpro.tools import QuickInternetTool, CalculateTool, UserInputTool, AresInternetTool, YFinanceTool, TraversaalProRAGTool, SlideGenerationTool, DataTool
+from agentpro.tools import QuickInternetTool, CalculateTool, UserInputTool, AresInternetTool, YFinanceTool, TraversaalProRAGTool, SlideGenerationTool, DataTool, CodeEngine
 from agentpro import create_model
 import dotenv
 def main():
@@ -29,7 +29,8 @@ def main():
             UserInputTool(),
             YFinanceTool(),
             SlideGenerationTool(),
-            DataTool(provider='litellm', model_name=os.getenv("DATA_MODEL_NAME","openrouter/openai/gpt-4o-mini"), api_key=os.getenv('OPENROUTER_API_KEY'),litellm_provider='openrouter',temperature=0.1,max_tokens=2048)
+            DataTool(provider='litellm', model_name=os.getenv("DATA_MODEL_NAME","openrouter/openai/gpt-4o-mini"), api_key=os.getenv('OPENROUTER_API_KEY'),litellm_provider='openrouter',temperature=0.1,max_tokens=2048),
+            CodeEngine(provider='litellm', model_name=os.getenv("CODE_MODEL_NAME","openrouter/openai/gpt-4o-mini"), api_key=os.getenv('OPENROUTER_API_KEY'),litellm_provider='openrouter',temperature=0.1,max_tokens=2048)
             # AresInternetTool(api_key=os.getenv("ARES_API_KEY", None)),
             # TraversaalProRAGTool(api_key=os.getenv("TRAVERSAAL_PRO_API_KEY", None), document_names="employee_safety_manual"),
         ]
