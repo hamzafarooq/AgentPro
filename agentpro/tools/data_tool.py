@@ -104,6 +104,7 @@ class DataTool(Tool):
                 user_prompt=user
             )
             code = self._extract_code(llm_response)
+            print(f"Generated code:\n{code}")
             if not code:
                 return f"❌ Could not parse code from LLM:\n{llm_response}"
             return self._execute(code, dfs)
