@@ -1,21 +1,16 @@
-from typing import List, Optional
+from typing import List, Optional, Any, Dict
 import requests
 import json
 import openai
 from .tools import Tool
 from .agent import Action, Observation, ThoughtStep, AgentResponse
 from .model import ModelClient, create_model
-
 import re
 from datetime import datetime
 
-
-
 class ReactAgent:
     def __init__(self, model: Optional[ModelClient] = None, tools: List[Tool] = None, custom_system_prompt: str = None, max_iterations: int = 20):
-
         self.client = model or create_model(provider="openai")
-
         self.max_iterations = max_iterations
 
         # Get Tool Details
@@ -103,6 +98,7 @@ Final Answer: Provide a complete, well-structured response that directly address
 
     def run(self, query: str) -> AgentResponse:
         thought_process: List[ThoughtStep] = []
+        tool_calls: List[str] = []
         printed_prompt = False  # <<< ADD A FLAG
         iterations_count = 0
         
@@ -169,6 +165,7 @@ Final Answer: Provide a complete, well-structured response that directly address
                     print("✅ Parsed Final Answer:", final_answer)
 
                 return AgentResponse(
+                    tool_calls=tool_calls,
                     thought_process=thought_process,
                     final_answer=final_answer
                 )
@@ -195,7 +192,7 @@ Final Answer: Provide a complete, well-structured response that directly address
                             action_type=action_data["action_type"],
                             input=action_data["input"]
                         )
-
+                        tool_calls.append(action.action_type)
                         # Execute action
                         result = self.execute_tool(action)
                         print("✅ Parsed Action Results:", result)
@@ -245,6 +242,7 @@ Final Answer: Provide a complete, well-structured response that directly address
         
         # # If exceeded max steps
         return AgentResponse(
+            tool_calls=tool_calls,
             thought_process=thought_process,
             final_answer="❌ Stopped after reaching maximum iterations limit."
         )

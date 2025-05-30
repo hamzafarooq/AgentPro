@@ -26,5 +26,6 @@ class ThoughtStep(BaseModel):
 
 # Define the full agent response
 class AgentResponse(BaseModel):
+    tool_calls: List[str]
     thought_process: List[ThoughtStep]  # Steps including thoughts, actions, and observations
     final_answer: Optional[str] = None  # Final answer after reasoning
