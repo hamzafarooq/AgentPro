@@ -97,11 +97,22 @@ Final Answer: Provide a complete, well-structured response that directly address
             )
 
     def extract_thought_from_response(self,full_response: str) -> str:
-        thought_match = re.search(r"Thought:\s*(.*?)(?:\n(?:Final Answer:|Action:|Observation:|Error:)|$)", full_response, re.DOTALL)
+        thought_match = re.search(
+            r"Thought:\s*(.*?)(?=\n(?:Final Answer:|Action:|Observation:|Error:)|$)",
+            full_response,
+            re.DOTALL,
+        )
         if thought_match:
             return thought_match.group(1).strip()
-        fallback = None
-        return fallback
+        step_response_match = re.search(
+            r"Step LLM Response:\s*(.*?)(?:</think>|$)",
+            full_response,
+            re.DOTALL,
+        )
+        if step_response_match:
+            fallback = step_response_match.group(1).strip()
+            return fallback if fallback else None
+        return None
     
     def run(self, query: str) -> AgentResponse:
         thought_process: List[ThoughtStep] = []
