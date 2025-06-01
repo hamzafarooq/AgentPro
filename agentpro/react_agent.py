@@ -96,23 +96,31 @@ Final Answer: Provide a complete, well-structured response that directly address
             user_prompt=prompt,
             )
 
-    def extract_thought_from_response(self,full_response: str) -> str:
-        thought_match = re.search(
-            r"Thought:\s*(.*?)(?=\n(?:Final Answer:|Action:|Observation:|Error:)|$)",
-            full_response,
-            re.DOTALL,
-        )
-        if thought_match:
-            return thought_match.group(1).strip()
-        step_response_match = re.search(
-            r"Step LLM Response:\s*(.*?)(?:</think>|$)",
-            full_response,
-            re.DOTALL,
-        )
-        if step_response_match:
-            fallback = step_response_match.group(1).strip()
-            return fallback if fallback else None
-        return None
+
+    def extract_thought_segment(full_response: str) -> str:
+        # 1. Extract everything before 'Action:'
+        pre_action_match = re.search(r"^(.*?)(?=\nAction:)", full_response, re.DOTALL)
+        if not pre_action_match:
+            return None  # Nothing to extract
+
+        thought_segment = pre_action_match.group(1)
+
+        # 2. Remove known prefixes/markers
+        markers_to_remove = [
+            r"🤖\s*\[Debug\]\s*Step LLM Response:\s*",
+            r"Step LLM Response:\s*",
+            r"Thought:\s*",
+            r"thought:\s*",
+            r"</think>\s*"
+        ]
+
+        for marker in markers_to_remove:
+            thought_segment = re.sub(marker, "", thought_segment, flags=re.IGNORECASE)
+
+        # 3. Normalize whitespace
+        thought_segment = thought_segment.strip()
+
+        return thought_segment if thought_segment else None
     
     def run(self, query: str) -> AgentResponse:
         thought_process: List[ThoughtStep] = []
