@@ -96,10 +96,17 @@ Final Answer: Provide a complete, well-structured response that directly address
             user_prompt=prompt,
             )
 
+    def extract_thought_from_response(self,full_response: str) -> str:
+        thought_match = re.search(r"Thought:\s*(.*?)(?:\n(?:Final Answer:|Action:|Observation:|Error:)|$)", full_response, re.DOTALL)
+        if thought_match:
+            return thought_match.group(1).strip()
+        fallback = None
+        return fallback
+    
     def run(self, query: str) -> AgentResponse:
         thought_process: List[ThoughtStep] = []
         tool_calls: List[str] = []
-        full_response : List[str] = []
+        full_thoughts : List[str] = []
         printed_prompt = False  # <<< ADD A FLAG
         iterations_count = 0
         
@@ -130,10 +137,13 @@ Final Answer: Provide a complete, well-structured response that directly address
             # Run LLM model
             if self.client:
                 step_text = self._get_llm_response(prompt)
-                full_response.append(step_text)
+                if (thought := self.extract_thought_from_response(full_response=step_text)):
+                    full_thoughts.append(thought)
             else:
                 return AgentResponse(
                     thought_process=thought_process,
+                    tool_calls=tool_calls,
+                    full_thoughts=full_thoughts,
                     final_answer="❌ No LLM is Connected. Please set and pass the OPENAI_API_KEY to AgentPro."
                 )
 
@@ -143,8 +153,7 @@ Final Answer: Provide a complete, well-structured response that directly address
             if "Final Answer:" in step_text and "Action:" not in step_text:
                 # Try to find last Thought before Final Answer
                 thought_match = re.search(r"Thought:\s*(.*?)(?:Action:|PAUSE:|Final Answer:|$)", step_text, re.DOTALL)
-                pause_match = re.search(r"PAUSE:\s*(.*?)(?:Thought:|Action:|Final Answer:|$)", step_text, re.DOTALL)
-                    
+                pause_match = re.search(r"PAUSE:\s*(.*?)(?:Thought:|Action:|Final Answer:|$)", step_text, re.DOTALL)  
                 # Extract Thought if found
                 if thought_match:
                     thought = thought_match.group(1).strip()
@@ -168,7 +177,7 @@ Final Answer: Provide a complete, well-structured response that directly address
 
                 return AgentResponse(
                     tool_calls=tool_calls,
-                    full_response=full_response,
+                    full_thoughts=full_thoughts,
                     thought_process=thought_process,
                     final_answer=final_answer
                 )
@@ -198,7 +207,8 @@ Final Answer: Provide a complete, well-structured response that directly address
                         tool_calls.append(action.action_type)
                         # Execute action
                         result = self.execute_tool(action)
-                        full_response.append(result)
+                        if (thought := self.extract_thought_from_response(full_response=result)):
+                            full_thoughts.append(thought)
                         print("✅ Parsed Action Results:", result)
                         observation = Observation(result=result)
 
@@ -247,7 +257,7 @@ Final Answer: Provide a complete, well-structured response that directly address
         # # If exceeded max steps
         return AgentResponse(
             tool_calls=tool_calls,
-            full_response=full_response,
+            full_thoughts=full_thoughts,
             thought_process=thought_process,
             final_answer="❌ Stopped after reaching maximum iterations limit."
         )
