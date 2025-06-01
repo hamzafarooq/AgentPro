@@ -97,9 +97,9 @@ Final Answer: Provide a complete, well-structured response that directly address
             )
 
 
-    def extract_thought_segment(full_response: str) -> str:
+    def extract_thought_from_response(self,full_response: str) -> str:
         # 1. Extract everything before 'Action:'
-        pre_action_match = re.search(r"^(.*?)(?=\nAction:)", full_response, re.DOTALL)
+        pre_action_match = re.search(r"^(.*?)(?=Action:|Final Answer:)", full_response, re.DOTALL)
         if not pre_action_match:
             return None  # Nothing to extract
 
