@@ -99,6 +99,7 @@ Final Answer: Provide a complete, well-structured response that directly address
     def run(self, query: str) -> AgentResponse:
         thought_process: List[ThoughtStep] = []
         tool_calls: List[str] = []
+        full_response : List[str] = []
         printed_prompt = False  # <<< ADD A FLAG
         iterations_count = 0
         
@@ -129,6 +130,7 @@ Final Answer: Provide a complete, well-structured response that directly address
             # Run LLM model
             if self.client:
                 step_text = self._get_llm_response(prompt)
+                full_response.append(step_text)
             else:
                 return AgentResponse(
                     thought_process=thought_process,
@@ -166,6 +168,7 @@ Final Answer: Provide a complete, well-structured response that directly address
 
                 return AgentResponse(
                     tool_calls=tool_calls,
+                    full_response=full_response,
                     thought_process=thought_process,
                     final_answer=final_answer
                 )
@@ -195,6 +198,7 @@ Final Answer: Provide a complete, well-structured response that directly address
                         tool_calls.append(action.action_type)
                         # Execute action
                         result = self.execute_tool(action)
+                        full_response.append(result)
                         print("✅ Parsed Action Results:", result)
                         observation = Observation(result=result)
 
@@ -243,6 +247,7 @@ Final Answer: Provide a complete, well-structured response that directly address
         # # If exceeded max steps
         return AgentResponse(
             tool_calls=tool_calls,
+            full_response=full_response,
             thought_process=thought_process,
             final_answer="❌ Stopped after reaching maximum iterations limit."
         )

@@ -52,6 +52,7 @@ def main():
         
         print(f"\n✅ Final Answer: {response.final_answer}")
         print(f"✅ Tool Calls: {response.tool_calls}")
+        print(f"✅ Full Response: {response.full_response}")
     
     except Exception as e:
         print(f"Error running agent: {e}")
